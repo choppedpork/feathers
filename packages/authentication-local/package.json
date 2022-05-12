@@ -1,7 +1,7 @@
 {
-  "name": "@feathersjs/authentication-local",
+  "name": "@choppedpork/authentication-local",
   "description": "Local authentication strategy for @feathers/authentication",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "homepage": "https://feathersjs.com",
   "main": "lib/",
   "keywords": [
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feathersjs/feathers.git"
+    "url": "git://github.com/choppedpork/feathers.git"
   },
   "author": {
     "name": "Feathers contributors",
